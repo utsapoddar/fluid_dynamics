@@ -1,12 +1,3 @@
-% ELEMENTARY FLOW: UNIFORM FLOW + VORTEX FLOW
-% Written by: JoshTheEngineer
-% YouTube   : www.youtube.com/joshtheengineer
-% Website   : www.joshtheengineer.com
-% Started: 02/09/19
-% Updated: 02/09/19 - Started code
-%                   - Works as expected
-%          02/11/19 - Added circulation calculation
-
 clear;
 clc;
 
