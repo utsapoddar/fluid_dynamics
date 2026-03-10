@@ -25,5 +25,3 @@ If you wish to convert the MATLAB code to Python or another language, you can re
 ## License
 
 This repository is licensed under the MIT License. See [LICENSE](LICENSE) for details.
-
-<!-- Minor formatting update --
